@@ -1,6 +1,6 @@
 # MIA
 Proyecto MIA
-# Predicción de Demanda para la Categoría 'ESCOLAR Y OFICINA'
+# Predicción de Demanda para empresa comercializadora de productos promocioanles'
 
 Este proyecto se enfoca en la predicción de la demanda de la categoría 'ESCOLAR Y OFICINA' utilizando datos históricos de ventas. Se implementan y comparan varios modelos de series temporales y redes neuronales para identificar el enfoque más efectivo.
 
@@ -15,7 +15,7 @@ Este proyecto se enfoca en la predicción de la demanda de la categoría 'ESCOLA
 - [Conclusión](#conclusión)
 
 ## Dataset
-El análisis se basa en el archivo CSV `Ventas 2023-2025 11-03-26 - CSV.csv`. Este dataset contiene información detallada sobre las ventas, incluyendo `FECHA`, `CATEGORIA`, `DEMANDA REAL (Q)`, entre otras variables.
+El análisis se basa en el archivo CSV `Ventas 2023-2025 11-03-26 - CSV.csv`. Este dataset contiene información detallada sobre las ventas, incluyendo `FECHA`, `CATEGORIA`, `DEMANDA REAL (Q)` que son fundamentales para el funcionamiento del código, entre otras variables.
 
 ## Metodología
 
